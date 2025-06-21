@@ -1,1 +1,1 @@
-#just created a amazon clone learnt many things
+# just created a amazon clone learnt many things
